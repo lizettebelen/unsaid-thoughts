@@ -1,0 +1,794 @@
+[
+  {
+    "title": "All Too Well",
+    "artist": "Taylor Swift",
+    "mood": "heartbreak",
+    "category": "Core Heartbreak",
+    "url": "https://music.youtube.com/search?q=All+Too+Well+Taylor+Swift",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Traitor",
+    "artist": "Olivia Rodrigo",
+    "mood": "heartbreak",
+    "category": "Core Heartbreak",
+    "url": "https://music.youtube.com/search?q=Traitor+Olivia+Rodrigo",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Happier Than Ever",
+    "artist": "Billie Eilish",
+    "mood": "heartbreak",
+    "category": "Core Heartbreak",
+    "url": "https://music.youtube.com/search?q=Happier+Than+Ever+Billie+Eilish",
+    "type": "youtube_music"
+  },
+  {
+    "title": "The Night We Met",
+    "artist": "Lord Huron",
+    "mood": "heartbreak",
+    "category": "Core Heartbreak",
+    "url": "https://music.youtube.com/search?q=The+Night+We+Met+Lord+Huron",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Let Her Go",
+    "artist": "Passenger",
+    "mood": "heartbreak",
+    "category": "Core Heartbreak",
+    "url": "https://music.youtube.com/search?q=Let+Her+Go+Passenger",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Someone You Loved",
+    "artist": "Lewis Capaldi",
+    "mood": "heartbreak",
+    "category": "Core Heartbreak",
+    "url": "https://music.youtube.com/search?q=Someone+You+Loved+Lewis+Capaldi",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Before You Go",
+    "artist": "Lewis Capaldi",
+    "mood": "heartbreak",
+    "category": "Core Heartbreak",
+    "url": "https://music.youtube.com/search?q=Before+You+Go+Lewis+Capaldi",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Back to December",
+    "artist": "Taylor Swift",
+    "mood": "heartbreak",
+    "category": "Core Heartbreak",
+    "url": "https://music.youtube.com/search?q=Back+to+December+Taylor+Swift",
+    "type": "youtube_music"
+  },
+  {
+    "title": "When I Was Your Man",
+    "artist": "Bruno Mars",
+    "mood": "heartbreak",
+    "category": "Core Heartbreak",
+    "url": "https://music.youtube.com/search?q=When+I+Was+Your+Man+Bruno+Mars",
+    "type": "youtube_music"
+  },
+  {
+    "title": "I Can't Make You Love Me",
+    "artist": "Bonnie Raitt",
+    "mood": "heartbreak",
+    "category": "Core Heartbreak",
+    "url": "https://music.youtube.com/search?q=I+Can%27t+Make+You+Love+Me+Bonnie+Raitt",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Fix You",
+    "artist": "Coldplay",
+    "mood": "sad",
+    "category": "Soft Sad / Emotional",
+    "url": "https://music.youtube.com/search?q=Fix+You+Coldplay",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Skinny Love",
+    "artist": "Bon Iver",
+    "mood": "sad",
+    "category": "Soft Sad / Emotional",
+    "url": "https://music.youtube.com/search?q=Skinny+Love+Bon+Iver",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Liability",
+    "artist": "Lorde",
+    "mood": "sad",
+    "category": "Soft Sad / Emotional",
+    "url": "https://music.youtube.com/search?q=Liability+Lorde",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Heather",
+    "artist": "Conan Gray",
+    "mood": "sad",
+    "category": "Soft Sad / Emotional",
+    "url": "https://music.youtube.com/search?q=Heather+Conan+Gray",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Almost Is Never Enough",
+    "artist": "Ariana Grande",
+    "mood": "sad",
+    "category": "Soft Sad / Emotional",
+    "url": "https://music.youtube.com/search?q=Almost+Is+Never+Enough+Ariana+Grande",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Jealous",
+    "artist": "Labrinth",
+    "mood": "sad",
+    "category": "Soft Sad / Emotional",
+    "url": "https://music.youtube.com/search?q=Jealous+Labrinth",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Ghostin",
+    "artist": "Ariana Grande",
+    "mood": "sad",
+    "category": "Soft Sad / Emotional",
+    "url": "https://music.youtube.com/search?q=Ghostin+Ariana+Grande",
+    "type": "youtube_music"
+  },
+  {
+    "title": "I Love You",
+    "artist": "Billie Eilish",
+    "mood": "sad",
+    "category": "Soft Sad / Emotional",
+    "url": "https://music.youtube.com/search?q=I+Love+You+Billie+Eilish",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Everything I Wanted",
+    "artist": "Billie Eilish",
+    "mood": "sad",
+    "category": "Soft Sad / Emotional",
+    "url": "https://music.youtube.com/search?q=Everything+I+Wanted+Billie+Eilish",
+    "type": "youtube_music"
+  },
+  {
+    "title": "The Scientist",
+    "artist": "Coldplay",
+    "mood": "sad",
+    "category": "Soft Sad / Emotional",
+    "url": "https://music.youtube.com/search?q=The+Scientist+Coldplay",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Another Love",
+    "artist": "Tom Odell",
+    "mood": "cry",
+    "category": "Crying Alone at Night",
+    "url": "https://music.youtube.com/search?q=Another+Love+Tom+Odell",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Say Something",
+    "artist": "A Great Big World",
+    "mood": "cry",
+    "category": "Crying Alone at Night",
+    "url": "https://music.youtube.com/search?q=Say+Something+A+Great+Big+World",
+    "type": "youtube_music"
+  },
+  {
+    "title": "All I Want",
+    "artist": "Kodaline",
+    "mood": "cry",
+    "category": "Crying Alone at Night",
+    "url": "https://music.youtube.com/search?q=All+I+Want+Kodaline",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Youth",
+    "artist": "Daughter",
+    "mood": "cry",
+    "category": "Crying Alone at Night",
+    "url": "https://music.youtube.com/search?q=Youth+Daughter",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Medicine",
+    "artist": "Daughter",
+    "mood": "cry",
+    "category": "Crying Alone at Night",
+    "url": "https://music.youtube.com/search?q=Medicine+Daughter",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Arcade",
+    "artist": "Duncan Laurence",
+    "mood": "cry",
+    "category": "Crying Alone at Night",
+    "url": "https://music.youtube.com/search?q=Arcade+Duncan+Laurence",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Happiest Year",
+    "artist": "Jaymes Young",
+    "mood": "cry",
+    "category": "Crying Alone at Night",
+    "url": "https://music.youtube.com/search?q=Happiest+Year+Jaymes+Young",
+    "type": "youtube_music"
+  },
+  {
+    "title": "July",
+    "artist": "Noah Cyrus",
+    "mood": "cry",
+    "category": "Crying Alone at Night",
+    "url": "https://music.youtube.com/search?q=July+Noah+Cyrus",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Broken",
+    "artist": "Lund",
+    "mood": "cry",
+    "category": "Crying Alone at Night",
+    "url": "https://music.youtube.com/search?q=Broken+Lund",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Falling",
+    "artist": "Harry Styles",
+    "mood": "cry",
+    "category": "Crying Alone at Night",
+    "url": "https://music.youtube.com/search?q=Falling+Harry+Styles",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Somebody Else",
+    "artist": "The 1975",
+    "mood": "missing",
+    "category": "Missing Someone",
+    "url": "https://music.youtube.com/search?q=Somebody+Else+The+1975",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Fallingforyou",
+    "artist": "The 1975",
+    "mood": "missing",
+    "category": "Missing Someone",
+    "url": "https://music.youtube.com/search?q=Fallingforyou+The+1975",
+    "type": "youtube_music"
+  },
+  {
+    "title": "I Wish You Would",
+    "artist": "Taylor Swift",
+    "mood": "missing",
+    "category": "Missing Someone",
+    "url": "https://music.youtube.com/search?q=I+Wish+You+Would+Taylor+Swift",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Come Back… Be Here",
+    "artist": "Taylor Swift",
+    "mood": "missing",
+    "category": "Missing Someone",
+    "url": "https://music.youtube.com/search?q=Come+Back+Be+Here+Taylor+Swift",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Right Person, Wrong Time",
+    "artist": "Henry Moodie",
+    "mood": "missing",
+    "category": "Missing Someone",
+    "url": "https://music.youtube.com/search?q=Right+Person+Wrong+Time+Henry+Moodie",
+    "type": "youtube_music"
+  },
+  {
+    "title": "You Were Good to Me",
+    "artist": "Jeremy Zucker",
+    "mood": "missing",
+    "category": "Missing Someone",
+    "url": "https://music.youtube.com/search?q=You+Were+Good+to+Me+Jeremy+Zucker",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Comethru",
+    "artist": "Jeremy Zucker",
+    "mood": "missing",
+    "category": "Missing Someone",
+    "url": "https://music.youtube.com/search?q=Comethru+Jeremy+Zucker",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Talking to the Moon",
+    "artist": "Bruno Mars",
+    "mood": "missing",
+    "category": "Missing Someone",
+    "url": "https://music.youtube.com/search?q=Talking+to+the+Moon+Bruno+Mars",
+    "type": "youtube_music"
+  },
+  {
+    "title": "If the World Was Ending",
+    "artist": "JP Saxe",
+    "mood": "missing",
+    "category": "Missing Someone",
+    "url": "https://music.youtube.com/search?q=If+the+World+Was+Ending+JP+Saxe",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Location Unknown",
+    "artist": "HONNE",
+    "mood": "missing",
+    "category": "Missing Someone",
+    "url": "https://music.youtube.com/search?q=Location+Unknown+HONNE",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Kung 'Di Rin Lang Ikaw",
+    "artist": "December Avenue",
+    "mood": "heartbreak",
+    "category": "Filipino Heartbreak (OPM)",
+    "url": "https://music.youtube.com/search?q=Kung+Di+Rin+Lang+Ikaw+December+Avenue",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Dulo",
+    "artist": "The Juans",
+    "mood": "heartbreak",
+    "category": "Filipino Heartbreak (OPM)",
+    "url": "https://music.youtube.com/search?q=Dulo+The+Juans",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Paano",
+    "artist": "Zack Tabudlo",
+    "mood": "heartbreak",
+    "category": "Filipino Heartbreak (OPM)",
+    "url": "https://music.youtube.com/search?q=Paano+Zack+Tabudlo",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Sana",
+    "artist": "I Belong to the Zoo",
+    "mood": "heartbreak",
+    "category": "Filipino Heartbreak (OPM)",
+    "url": "https://music.youtube.com/search?q=Sana+I+Belong+to+the+Zoo",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Ikaw Lang",
+    "artist": "NOBITA",
+    "mood": "heartbreak",
+    "category": "Filipino Heartbreak (OPM)",
+    "url": "https://music.youtube.com/search?q=Ikaw+Lang+NOBITA",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Malaya",
+    "artist": "Moira Dela Torre",
+    "mood": "heartbreak",
+    "category": "Filipino Heartbreak (OPM)",
+    "url": "https://music.youtube.com/search?q=Malaya+Moira+Dela+Torre",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Paubaya",
+    "artist": "Moira Dela Torre",
+    "mood": "heartbreak",
+    "category": "Filipino Heartbreak (OPM)",
+    "url": "https://music.youtube.com/search?q=Paubaya+Moira+Dela+Torre",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Tagpuan",
+    "artist": "Moira Dela Torre",
+    "mood": "heartbreak",
+    "category": "Filipino Heartbreak (OPM)",
+    "url": "https://music.youtube.com/search?q=Tagpuan+Moira+Dela+Torre",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Burnout",
+    "artist": "Sugarfree",
+    "mood": "heartbreak",
+    "category": "Filipino Heartbreak (OPM)",
+    "url": "https://music.youtube.com/search?q=Burnout+Sugarfree",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Unti-Unti",
+    "artist": "UDD",
+    "mood": "heartbreak",
+    "category": "Filipino Heartbreak (OPM)",
+    "url": "https://music.youtube.com/search?q=Unti-Unti+UDD",
+    "type": "youtube_music"
+  },
+  {
+    "title": "The One That Got Away",
+    "artist": "Katy Perry",
+    "mood": "regret",
+    "category": "Regret & What-Ifs",
+    "url": "https://music.youtube.com/search?q=The+One+That+Got+Away+Katy+Perry",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Backburner",
+    "artist": "NIKI",
+    "mood": "regret",
+    "category": "Regret & What-Ifs",
+    "url": "https://music.youtube.com/search?q=Backburner+NIKI",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Lose You to Love Me",
+    "artist": "Selena Gomez",
+    "mood": "regret",
+    "category": "Regret & What-Ifs",
+    "url": "https://music.youtube.com/search?q=Lose+You+to+Love+Me+Selena+Gomez",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Drivers License",
+    "artist": "Olivia Rodrigo",
+    "mood": "regret",
+    "category": "Regret & What-Ifs",
+    "url": "https://music.youtube.com/search?q=Drivers+License+Olivia+Rodrigo",
+    "type": "youtube_music"
+  },
+  {
+    "title": "1 Step Forward, 3 Steps Back",
+    "artist": "Olivia Rodrigo",
+    "mood": "regret",
+    "category": "Regret & What-Ifs",
+    "url": "https://music.youtube.com/search?q=1+Step+Forward+3+Steps+Back+Olivia+Rodrigo",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Enough for You",
+    "artist": "Olivia Rodrigo",
+    "mood": "regret",
+    "category": "Regret & What-Ifs",
+    "url": "https://music.youtube.com/search?q=Enough+for+You+Olivia+Rodrigo",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Almost Lover",
+    "artist": "A Fine Frenzy",
+    "mood": "regret",
+    "category": "Regret & What-Ifs",
+    "url": "https://music.youtube.com/search?q=Almost+Lover+A+Fine+Frenzy",
+    "type": "youtube_music"
+  },
+  {
+    "title": "If I Ain't Got You",
+    "artist": "Alicia Keys",
+    "mood": "regret",
+    "category": "Regret & What-Ifs",
+    "url": "https://music.youtube.com/search?q=If+I+Ain%27t+Got+You+Alicia+Keys",
+    "type": "youtube_music"
+  },
+  {
+    "title": "We Don't Talk Anymore",
+    "artist": "Charlie Puth",
+    "mood": "regret",
+    "category": "Regret & What-Ifs",
+    "url": "https://music.youtube.com/search?q=We+Don%27t+Talk+Anymore+Charlie+Puth",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Too Good at Goodbyes",
+    "artist": "Sam Smith",
+    "mood": "regret",
+    "category": "Regret & What-Ifs",
+    "url": "https://music.youtube.com/search?q=Too+Good+at+Goodbyes+Sam+Smith",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Breathe Me",
+    "artist": "Sia",
+    "mood": "numb",
+    "category": "Quiet Pain / Numb",
+    "url": "https://music.youtube.com/search?q=Breathe+Me+Sia",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Liability (Reprise)",
+    "artist": "Lorde",
+    "mood": "numb",
+    "category": "Quiet Pain / Numb",
+    "url": "https://music.youtube.com/search?q=Liability+Reprise+Lorde",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Motion Sickness",
+    "artist": "Phoebe Bridgers",
+    "mood": "numb",
+    "category": "Quiet Pain / Numb",
+    "url": "https://music.youtube.com/search?q=Motion+Sickness+Phoebe+Bridgers",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Scott Street",
+    "artist": "Phoebe Bridgers",
+    "mood": "numb",
+    "category": "Quiet Pain / Numb",
+    "url": "https://music.youtube.com/search?q=Scott+Street+Phoebe+Bridgers",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Funeral",
+    "artist": "Phoebe Bridgers",
+    "mood": "numb",
+    "category": "Quiet Pain / Numb",
+    "url": "https://music.youtube.com/search?q=Funeral+Phoebe+Bridgers",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Moon Song",
+    "artist": "Phoebe Bridgers",
+    "mood": "numb",
+    "category": "Quiet Pain / Numb",
+    "url": "https://music.youtube.com/search?q=Moon+Song+Phoebe+Bridgers",
+    "type": "youtube_music"
+  },
+  {
+    "title": "I Know the End",
+    "artist": "Phoebe Bridgers",
+    "mood": "numb",
+    "category": "Quiet Pain / Numb",
+    "url": "https://music.youtube.com/search?q=I+Know+the+End+Phoebe+Bridgers",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Cigarette Daydreams",
+    "artist": "Cage the Elephant",
+    "mood": "numb",
+    "category": "Quiet Pain / Numb",
+    "url": "https://music.youtube.com/search?q=Cigarette+Daydreams+Cage+the+Elephant",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Iris",
+    "artist": "Goo Goo Dolls",
+    "mood": "numb",
+    "category": "Quiet Pain / Numb",
+    "url": "https://music.youtube.com/search?q=Iris+Goo+Goo+Dolls",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Chasing Cars",
+    "artist": "Snow Patrol",
+    "mood": "numb",
+    "category": "Quiet Pain / Numb",
+    "url": "https://music.youtube.com/search?q=Chasing+Cars+Snow+Patrol",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Let Me Down Slowly",
+    "artist": "Alec Benjamin",
+    "mood": "letting_go",
+    "category": "Letting Go",
+    "url": "https://music.youtube.com/search?q=Let+Me+Down+Slowly+Alec+Benjamin",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Train Wreck",
+    "artist": "James Arthur",
+    "mood": "letting_go",
+    "category": "Letting Go",
+    "url": "https://music.youtube.com/search?q=Train+Wreck+James+Arthur",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Impossible",
+    "artist": "James Arthur",
+    "mood": "letting_go",
+    "category": "Letting Go",
+    "url": "https://music.youtube.com/search?q=Impossible+James+Arthur",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Bruises",
+    "artist": "Lewis Capaldi",
+    "mood": "letting_go",
+    "category": "Letting Go",
+    "url": "https://music.youtube.com/search?q=Bruises+Lewis+Capaldi",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Hold Me While You Wait",
+    "artist": "Lewis Capaldi",
+    "mood": "letting_go",
+    "category": "Letting Go",
+    "url": "https://music.youtube.com/search?q=Hold+Me+While+You+Wait+Lewis+Capaldi",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Happier",
+    "artist": "Ed Sheeran",
+    "mood": "letting_go",
+    "category": "Letting Go",
+    "url": "https://music.youtube.com/search?q=Happier+Ed+Sheeran",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Photograph",
+    "artist": "Ed Sheeran",
+    "mood": "letting_go",
+    "category": "Letting Go",
+    "url": "https://music.youtube.com/search?q=Photograph+Ed+Sheeran",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Turning Tables",
+    "artist": "Adele",
+    "mood": "letting_go",
+    "category": "Letting Go",
+    "url": "https://music.youtube.com/search?q=Turning+Tables+Adele",
+    "type": "youtube_music"
+  },
+  {
+    "title": "All I Ask",
+    "artist": "Adele",
+    "mood": "letting_go",
+    "category": "Letting Go",
+    "url": "https://music.youtube.com/search?q=All+I+Ask+Adele",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Someone Like You",
+    "artist": "Adele",
+    "mood": "letting_go",
+    "category": "Letting Go",
+    "url": "https://music.youtube.com/search?q=Someone+Like+You+Adele",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Clean",
+    "artist": "Taylor Swift",
+    "mood": "healing",
+    "category": "Healing but Still Hurting",
+    "url": "https://music.youtube.com/search?q=Clean+Taylor+Swift",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Begin Again",
+    "artist": "Taylor Swift",
+    "mood": "healing",
+    "category": "Healing but Still Hurting",
+    "url": "https://music.youtube.com/search?q=Begin+Again+Taylor+Swift",
+    "type": "youtube_music"
+  },
+  {
+    "title": "The Story of Us",
+    "artist": "Taylor Swift",
+    "mood": "healing",
+    "category": "Healing but Still Hurting",
+    "url": "https://music.youtube.com/search?q=The+Story+of+Us+Taylor+Swift",
+    "type": "youtube_music"
+  },
+  {
+    "title": "White Horse",
+    "artist": "Taylor Swift",
+    "mood": "healing",
+    "category": "Healing but Still Hurting",
+    "url": "https://music.youtube.com/search?q=White+Horse+Taylor+Swift",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Breathe",
+    "artist": "Taylor Swift",
+    "mood": "healing",
+    "category": "Healing but Still Hurting",
+    "url": "https://music.youtube.com/search?q=Breathe+Taylor+Swift",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Fixing a Broken Heart",
+    "artist": "Indecent Obsession",
+    "mood": "healing",
+    "category": "Healing but Still Hurting",
+    "url": "https://music.youtube.com/search?q=Fixing+a+Broken+Heart+Indecent+Obsession",
+    "type": "youtube_music"
+  },
+  {
+    "title": "I'll Never Love Again",
+    "artist": "Lady Gaga",
+    "mood": "healing",
+    "category": "Healing but Still Hurting",
+    "url": "https://music.youtube.com/search?q=I%27ll+Never+Love+Again+Lady+Gaga",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Shallow",
+    "artist": "Lady Gaga",
+    "mood": "healing",
+    "category": "Healing but Still Hurting",
+    "url": "https://music.youtube.com/search?q=Shallow+Lady+Gaga",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Say You Love Me",
+    "artist": "Jessie Ware",
+    "mood": "healing",
+    "category": "Healing but Still Hurting",
+    "url": "https://music.youtube.com/search?q=Say+You+Love+Me+Jessie+Ware",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Stay",
+    "artist": "Rihanna",
+    "mood": "healing",
+    "category": "Healing but Still Hurting",
+    "url": "https://music.youtube.com/search?q=Stay+Rihanna",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Everybody's Changing",
+    "artist": "Keane",
+    "mood": "existential",
+    "category": "Deep / Existential Sad",
+    "url": "https://music.youtube.com/search?q=Everybody%27s+Changing+Keane",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Somewhere Only We Know",
+    "artist": "Keane",
+    "mood": "existential",
+    "category": "Deep / Existential Sad",
+    "url": "https://music.youtube.com/search?q=Somewhere+Only+We+Know+Keane",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Run",
+    "artist": "Snow Patrol",
+    "mood": "existential",
+    "category": "Deep / Existential Sad",
+    "url": "https://music.youtube.com/search?q=Run+Snow+Patrol",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Saturn",
+    "artist": "Sleeping At Last",
+    "mood": "existential",
+    "category": "Deep / Existential Sad",
+    "url": "https://music.youtube.com/search?q=Saturn+Sleeping+At+Last",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Already Gone",
+    "artist": "Sleeping At Last",
+    "mood": "existential",
+    "category": "Deep / Existential Sad",
+    "url": "https://music.youtube.com/search?q=Already+Gone+Sleeping+At+Last",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Youth",
+    "artist": "Troye Sivan",
+    "mood": "existential",
+    "category": "Deep / Existential Sad",
+    "url": "https://music.youtube.com/search?q=Youth+Troye+Sivan",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Angels Like You",
+    "artist": "Miley Cyrus",
+    "mood": "existential",
+    "category": "Deep / Existential Sad",
+    "url": "https://music.youtube.com/search?q=Angels+Like+You+Miley+Cyrus",
+    "type": "youtube_music"
+  },
+  {
+    "title": "Used to Be Young",
+    "artist": "Miley Cyrus",
+    "mood": "existential",
+    "category": "Deep / Existential Sad",
+    "url": "https://music.youtube.com/search?q=Used+to+Be+Young+Miley+Cyrus",
+    "type": "youtube_music"
+  },
+  {
+    "title": "The A Team",
+    "artist": "Ed Sheeran",
+    "mood": "existential",
+    "category": "Deep / Existential Sad",
+    "url": "https://music.youtube.com/search?q=The+A+Team+Ed+Sheeran",
+    "type": "youtube_music"
+  }
+]
